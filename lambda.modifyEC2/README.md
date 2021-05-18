@@ -3,7 +3,7 @@ Este ejemplo permite modificar instanacias de ec2 con nodejs
 
 ### Video explicativo en youtube
 - [Modificar tipo de instancias con lambdas con nodejs (video)](https://youtu.be/BGIvZpsFTw4)
-- [![Modificar tipo de instancias con lambdas con nodejs (video)](https://img.youtube.com/vi/aia6-eIMe4g/hqdefault.jpg)](https://youtu.be/aia6-eIMe4g)
+- [![Modificar tipo de instancias con lambdas con nodejs (video)](https://img.youtube.com/vi/aia6-eIMe4g/maxresdefault.jpg)](https://youtu.be/aia6-eIMe4g)
 
 ## Permisos que necesitas
 los permisos que necesitas son, crea un rol he incluye lo siguiente:
