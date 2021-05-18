@@ -1,0 +1,13 @@
+para hacer pruebas necesitas usar la siguiente estructura
+{
+  "instanceId": "i-0c9e4cec48a083f19",
+  "instanceRegion": "us-east-1",
+  "instanceType": "t3.medium"
+}   
+
+los permisos que necesitas son
+"ec2:DescribeInstances",
+"ec2:StartInstances",
+"ec2:ModifyInstanceAttribute",
+"ec2:StopInstances"
+
