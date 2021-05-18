@@ -3,7 +3,7 @@ Este ejemplo permite apagar y encender instancias de ec2 con nodejs.
 
 ### Video explicativo en youtube
 - [Apagar y encender instancias con lambdas y nodejs (video)](https://youtu.be/BGIvZpsFTw4)
-
+[![Apagar y encender instancias con lambdas y nodejs (video)](https://img.youtube.com/vi/BGIvZpsFTw4/maxresdefault.jpg)](https://youtu.be/BGIvZpsFTw4)
 
 
 ## Permisos que necesitas
