@@ -1,8 +1,8 @@
 # NODEJS ON AWS
-Este ejemplo permite modificar instanacias de ec2 con nodejs
+Este ejemplo permite apagar y encender instancias de ec2 con nodejs. 
 
 ### Video explicativo en youtube
-- [Modificar tipo de instancias con lambdas con nodejs (video)](https://youtu.be/BGIvZpsFTw4)
+- [Apagar y encender instancias con lambdas y nodejs (video)](https://youtu.be/BGIvZpsFTw4)
 
 
 ## Permisos que necesitas
@@ -10,7 +10,6 @@ los permisos que necesitas son, crea un rol he incluye lo siguiente:
 ```
 "ec2:DescribeInstances",
 "ec2:StartInstances",
-"ec2:ModifyInstanceAttribute",
 "ec2:StopInstances"
 ```
 
@@ -19,8 +18,7 @@ para hacer pruebas necesitas usar la siguiente estructura
 ```
 {
   "instanceId": "i-0c9e4cec48a083f19",
-  "instanceRegion": "us-east-1",
-  "instanceType": "t3.medium"
+  "instanceRegion": "us-east-1"
 }   
 ```
 

@@ -8,3 +8,5 @@ Te dejo la lista de ejemplo que he ido desarrollando separado por servicio, tamb
 - [Modificar tipo de instancias (video)](https://youtu.be/BGIvZpsFTw4)
 - [Modificar tipo de instancias (Codigo)](https://github.com/culturadevops/nodejs_on_aws/tree/master/lambda.modifyEC2)
 
+- [Apagar y encender instancias con lambdas y nodejs (video)](https://youtu.be/BGIvZpsFTw4)
+- [Apagar y encender instancias con lambdas y nodejs (codigo)](https://github.com/culturadevops/nodejs_on_aws/tree/master/lambda.modifyEC2)
